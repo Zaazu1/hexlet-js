@@ -1,0 +1,12 @@
+{
+  "name": "hexlet",
+  "version": "9.6.6",
+  "type": "module",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitriy Ovcharov <dovcarov@gmail.com>",
+  "license": "ISC"
+}
